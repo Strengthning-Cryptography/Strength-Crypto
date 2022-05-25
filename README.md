@@ -25,6 +25,22 @@ So, we found that it is possible to generate a pure random number on client side
 help of quantum computer on server side using Diffie Hellman Key Exchange, even
 through un-encrypted channel without any compromise.
 
+## Repo
+Link : https://github.com/nkpro2000/IVyearProject
+
+### To clone
+
+```bash
+git clone https://github.com/nkpro2000/IVyearProject.git
+cd IVyearProject
+```
+
+## To Setup
+|Platform |Shell      | Command to setup virtual environment |
+|---------|-----------|--------------------------------------|
+| POSIX   | any shell | $ sh setup.sh                        |
+| Windows | cmd.exe   | > start setup.bat                    |
+
 ## To Run
 
 ### 1. Activate Python VirtualEnv
@@ -90,15 +106,6 @@ I> Quiting...
 (venv) ~/nk/mainproj >>>  
 ```
 
-## Repo
-Link : https://github.com/nkpro2000/IVyearProject
-
-### To clone
-
-```bash
-git clone https://github.com/nkpro2000/IVyearProject.git
-cd IVyearProject
-```
-
 ## DEMO
+#### Setup and Run DEMO on Windows
 Link : https://www.youtube.com/watch?v=gGQb1de21V8
