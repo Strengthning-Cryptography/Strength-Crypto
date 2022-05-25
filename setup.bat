@@ -1,6 +1,8 @@
 python -m venv venv
 
-START venv\Scripts\activate.bat
+call venv\Scripts\activate.bat
+
+@echo on
 
 pip list
 
