@@ -21,9 +21,9 @@ issue we introduce quantum computer to create a true randomness using its
 superposition capability.  
 
 But quantum machines are not accessible to all the computers, especially to clients.
-So, we found that it possible to generate a pure random number on client side with the
-help of quantum computer on server side using Diffie Hellman Key Exchange. Even
-through un-encrypted channel with any compromise.
+So, we found that it is possible to generate a pure random number on client side with the
+help of quantum computer on server side using Diffie Hellman Key Exchange, even
+through un-encrypted channel without any compromise.
 
 ## To Run
 
