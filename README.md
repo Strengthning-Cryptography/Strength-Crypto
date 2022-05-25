@@ -2,8 +2,8 @@
 
 #### A PROJECT DONE BY  
 > ### 1. NAVEEN S R        211418104172 [GitHub](https://github.com/nkpro2000sr) [in](http://www.linkedin.com/in/srnaveen2k)  
-> ### 2. PRADEISH C        211418104196 [GitHub](https://github.com/pradeishc)  
-> ### 3. MOHAN RAJ RISHI S 211418104158  
+> ### 2. PRADEISH C        211418104196 [GitHub](https://github.com/pradeishc)  [in](https://www.linkedin.com/in/pradeishc/)
+> ### 3. MOHAN RAJ RISHI S 211418104158 [Mail](mailto:mrrishi2000@gmail.com)
 
 #### for partial fulfilment for the award of the degree of  
 ### BACHELOR OF ENGINEERING in COMPUTER SCIENCE AND ENGINEERING  
