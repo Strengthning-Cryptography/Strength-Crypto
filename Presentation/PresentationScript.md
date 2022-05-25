@@ -1,6 +1,7 @@
 # STRENGTHENING CRYPTOGRAPHY USING QUANTUM PROPERTIES
 
-<!--- Mohan { -->
+> Mohan {
+
 Good Morning to all,
 
 > Intro of ourselfs
@@ -10,10 +11,18 @@ This project is like a proposal to prevent certain rare but possible, vulnerabil
 
 For most of the cryptography algorithms, randomness plays a vital role. But generation of pure random number is impossible in classical computer. Even for generating decent random numbers it needed a random seed. But since the seed is a number in source code or algorithm to generate seed which is also in source, it can be revealed to hacker if the system is compromised. Which made possible to predict all the random numbers the computer will generate by the hacker. So, to solve this issue we introduce quantum computer to create a true randomness using its superposition capability.
 
-<!---  } Me { -->
+> } Me {
+
 ## No-Cloning 
 
-> Yet to add
+As mohan said, in classical computers revealing seed would break the cryptography system.  
+Also in conventional systems, there are some possibilities of seed being compromised.
+
+So, You may think, is it possible to exploit quantum computers in the similar manner?  
+Quantum computers use superposition and collapsing to generate randomness so there is no need for seed.   
+But it may be possible to generate the same random bits as another quantum computer if and only if we cloned it.  
+Here Comes the no-cloning principle of quantum which states that there is no possible way to clone a quantum computer or quantum state.  
+Problem solved.
 
 ## Diffie-Hellman
 
@@ -24,12 +33,14 @@ Because if it requires an encrypted channel, then that cryptography algorithm to
 But luckily we found that the Diffie-Hellman Key Exchange algorithm can be used for this purpose too.  
 Now we can share true randomness to clients, so the cryptography is strengthened from both sides.  
 
-<!---  } Pradeish { --->
+> } Pradeish {
+
 ## System Arch and UML
 
-> Yet to add
+>> Yet to add
 
-<!---  } Me { -->
+> } Me {
+
 ## Project Demo
 
 SO, For the sake of the project demo we created a CLI based server client chat script which uses all the previously explained techniques.
@@ -47,6 +58,6 @@ That's all for Demo
 
 ## Future enhancements and Conclusion
 
-> Yet to add
+>> Yet to add
 
 Thank you all for your attention!
