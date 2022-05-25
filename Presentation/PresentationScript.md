@@ -1,7 +1,16 @@
 # STRENGTHENING CRYPTOGRAPHY USING QUANTUM PROPERTIES
 
-> Yet to add
+<!--- Mohan { -->
+Good Morning to all,
 
+> Intro of ourselfs
+
+Our Project is STRENGTHENING CRYPTOGRAPHY USING QUANTUM PROPERTIES.  
+This project is like a proposal to prevent certain rare but possible, vulnerabilities, related to cryptography due to the inability of classical computers to generate true randomness.  
+
+For most of the cryptography algorithms, randomness plays a vital role. But generation of pure random number is impossible in classical computer. Even for generating decent random numbers it needed a random seed. But since the seed is a number in source code or algorithm to generate seed which is also in source, it can be revealed to hacker if the system is compromised. Which made possible to predict all the random numbers the computer will generate by the hacker. So, to solve this issue we introduce quantum computer to create a true randomness using its superposition capability.
+
+<!---  } Me { -->
 ## No-Cloning 
 
 > Yet to add
@@ -15,6 +24,12 @@ Because if it requires an encrypted channel, then that cryptography algorithm to
 But luckily we found that the Diffie-Hellman Key Exchange algorithm can be used for this purpose too.  
 Now we can share true randomness to clients, so the cryptography is strengthened from both sides.  
 
+<!---  } Pradeish { --->
+## System Arch and UML
+
+> Yet to add
+
+<!---  } Me { -->
 ## Project Demo
 
 SO, For the sake of the project demo we created a CLI based server client chat script which uses all the previously explained techniques.
@@ -28,4 +43,10 @@ SO, For the sake of the project demo we created a CLI based server client chat s
 * Also it uses Digital Signature to avoid man-in-the-middle attack.
 * So finally here the client says “Hi” and the server says “Bye”, then both exit.
 
-That's all and Thank you all for your attention!
+That's all for Demo
+
+## Future enhancements and Conclusion
+
+> Yet to add
+
+Thank you all for your attention!
